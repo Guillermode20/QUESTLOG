@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.preact:hover {
+  filter: drop-shadow(0 0 2em #673ab8aa);
+}
+
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.no-block-spacing { /* for ABOUT button */
+  margin: 0 !important;
+}
+
+.login-container .field .control {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-between; /* Adjust as needed */
+  align-items: center; /* Adjust as needed */
+}
+
+.left-aligned {
+  flex: 1;
+  text-align: left;
+}
+
+.center-aligned {
+  flex: 1;
+  text-align: center;
+}
+
+.remove-padding {
+  padding: 0 !important;
+}
+
+.navbar-item {
+  gap: 0.25em;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.content {
+  flex: 1;
+}
+
+.footer {
+  flex-shrink: 0;
+}
+
+.monsterrat-black {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900 !important;
+}
+
+.montserrat-black {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900 !important;
+}
+
+.QUESTLOGLOGO {
+  max-height: 100px !important;
+}
+
+/* Adjust main content to account for the fixed navbar and horizontal rules */
+main.section {
+  padding-top: 80px; /* Adjust this value based on your navbar height + horizontal rules height */
+}
+
+.has-text-cyan {
+  color: cyan !important;
+}
+
+.navbar {
+  border-bottom: 1px solid cyan;
+}
+
+.custom-navbar {
+  padding: 0.5rem 1.5rem;
+}
+
+.custom-navbar .navbar-item {
+  padding: 0.5rem 0.75rem;
+}
+
+@media screen and (min-width: 1024px) {
+  .custom-navbar {
+    padding: 1rem 2rem;
+  }
+
+  .custom-navbar .navbar-item {
+    padding: 0.5rem 1rem;
+  }
+
+  .custom-navbar .title {
+    font-size: 1.75rem;
+  }
+
+  .custom-navbar .navbar-item img {
+    max-height: 2.5rem;
+  }
+}
+
+.horizontal-rule-container {
+  position: fixed;
+  top: 56px; /* Adjust this value based on your navbar height */
+  left: 0;
+  right: 0;
+  z-index: 29;
+}
+
+.horizontal-rule-container hr {
+  margin: 0;
+}
+
+/* Adjust main content to account for the fixed navbar and horizontal rules */
+main.section {
+  padding-top: 84px; /* Adjust this value based on your navbar height + horizontal rules height */
+}
+
+@media screen and (min-width: 1024px) {
+  .horizontal-rule-container {
+    top: 76px; /* Adjust for larger navbar on desktop */
+  }
+
+  main.section {
+    padding-top: 104px; /* Adjust for larger navbar on desktop */
+  }
+}
+
+.card {
+  width: auto; /* Allow cards to adapt to content size */
+  margin: 1rem; /* Add some margin for spacing */
+}
+
+.card-image img {
+  width: 100%; /* Make the image fill the card width */
+  height: auto; /* Maintain aspect ratio */
+  object-fit: cover; /* Ensure the image covers the area without distortion */
+}
+
+.section {
+  --bulma-section-padding: 0.5rem;
+}
+
+.hero-body {
+  --bulma-hero-body-padding: 1.5em;
+}
+
+.truncate-review-text-card {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.hero-buttons {
+  background: transparent;
+  border: 2px solid cyan;
+  color: cyan;
+  transition: transform 0.2s;
+}
+
+.hero-buttons:hover {
+  background: cyan;
+  color: black;
+  border: 2px solid cyan;
+  transform: scale(1.05);
+}
+
+.funky-text {
+  transition: transform 0.2s;
+}
+
+.funky-text:hover {
+  transform: translateY(-0.25em);
+}
+
+.hero-buttons img {
+  filter: invert(79%) sepia(72%) saturate(4929%) hue-rotate(143deg) brightness(101%) contrast(101%);
+  transition: filter 0s ease;
+}
+
+.hero-buttons:hover img {
+  filter: none;
+}
+
+/* Existing styles */
+.hero-buttons {
+  background: transparent;
+  border: 2px solid cyan;
+  color: cyan;
+  transition: transform 0.2s;
+}
+
+.hero-buttons:hover {
+  background: cyan;
+  color: black;
+  border: 2px solid cyan;
+  transform: scale(1.05);
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Full viewport height */
+}
+
+main.section {
+  flex: 1 0 auto; /* Grow to fill available space */
+  padding-top: calc(3.25rem + 1.5rem); /* Navbar height + section padding */
+}
+
+.footer {
+  flex-shrink: 0; /* Prevent footer from shrinking */
+}

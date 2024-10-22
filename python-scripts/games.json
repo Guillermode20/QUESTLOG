@@ -1,0 +1,550 @@
+[
+    {
+        "id": 7599,
+        "first_release_date": 1422489600,
+        "genres": [
+            9,
+            12,
+            31,
+            32
+        ],
+        "involved_companies": [
+            {
+                "id": 58954,
+                "company": {
+                    "id": 894,
+                    "name": "DON'T NOD"
+                }
+            },
+            {
+                "id": 58955,
+                "company": {
+                    "id": 26,
+                    "name": "Square Enix"
+                }
+            },
+            {
+                "id": 58956,
+                "company": {
+                    "id": 23,
+                    "name": "Feral Interactive"
+                }
+            },
+            {
+                "id": 232096,
+                "company": {
+                    "id": 38591,
+                    "name": "Pingle Game Studio"
+                }
+            }
+        ],
+        "multiplayer_modes": [
+            7492
+        ],
+        "name": "Life is Strange",
+        "platforms": [
+            3,
+            6,
+            9,
+            12,
+            14,
+            34,
+            39,
+            48,
+            49
+        ],
+        "total_rating_count": 1614
+    },
+    {
+        "id": 7498,
+        "first_release_date": 1424217600,
+        "genres": [
+            4
+        ],
+        "involved_companies": [
+            {
+                "id": 86710,
+                "company": {
+                    "id": 248,
+                    "name": "Bandai Namco Entertainment"
+                }
+            },
+            {
+                "id": 98165,
+                "company": {
+                    "id": 22721,
+                    "name": "Bandai Namco Studios"
+                }
+            }
+        ],
+        "multiplayer_modes": [
+            8283
+        ],
+        "name": "Tekken 7",
+        "platforms": [
+            6,
+            48,
+            49,
+            52,
+            165
+        ],
+        "total_rating_count": 246
+    },
+    {
+        "id": 7334,
+        "first_release_date": 1427155200,
+        "genres": [
+            12,
+            31
+        ],
+        "involved_companies": [
+            {
+                "id": 17333,
+                "company": {
+                    "id": 1012,
+                    "name": "FromSoftware"
+                }
+            },
+            {
+                "id": 180655,
+                "company": {
+                    "id": 13634,
+                    "name": "Sony Computer Entertainment"
+                }
+            }
+        ],
+        "multiplayer_modes": [
+            4303
+        ],
+        "name": "Bloodborne",
+        "platforms": [
+            48
+        ],
+        "total_rating_count": 1473
+    },
+    {
+        "id": 7292,
+        "first_release_date": 1428883200,
+        "genres": [
+            4
+        ],
+        "involved_companies": [
+            {
+                "id": 63887,
+                "company": {
+                    "id": 48,
+                    "name": "NetherRealm Studios"
+                }
+            },
+            {
+                "id": 63888,
+                "company": {
+                    "id": 50,
+                    "name": "WB Games"
+                }
+            }
+        ],
+        "multiplayer_modes": [
+            21273
+        ],
+        "name": "Mortal Kombat X",
+        "platforms": [
+            6,
+            48,
+            49
+        ],
+        "total_rating_count": 428
+    },
+    {
+        "id": 1942,
+        "first_release_date": 1431993600,
+        "genres": [
+            12,
+            31
+        ],
+        "involved_companies": [
+            {
+                "id": 17436,
+                "company": {
+                    "id": 50,
+                    "name": "WB Games"
+                }
+            },
+            {
+                "id": 17768,
+                "company": {
+                    "id": 248,
+                    "name": "Bandai Namco Entertainment"
+                }
+            },
+            {
+                "id": 17769,
+                "company": {
+                    "id": 3119,
+                    "name": "cdp.pl"
+                }
+            },
+            {
+                "id": 17771,
+                "company": {
+                    "id": 1217,
+                    "name": "Spike ChunSoft"
+                }
+            },
+            {
+                "id": 42142,
+                "company": {
+                    "id": 908,
+                    "name": "CD Projekt RED"
+                }
+            },
+            {
+                "id": 64293,
+                "company": {
+                    "id": 5696,
+                    "name": "D3T Limited"
+                }
+            },
+            {
+                "id": 196544,
+                "company": {
+                    "id": 946,
+                    "name": "Saber Interactive"
+                }
+            }
+        ],
+        "name": "The Witcher 3: Wild Hunt",
+        "platforms": [
+            6,
+            48,
+            49,
+            130,
+            167,
+            169
+        ],
+        "total_rating_count": 4189
+    },
+    {
+        "id": 5503,
+        "first_release_date": 1435017600,
+        "genres": [
+            25,
+            31
+        ],
+        "involved_companies": [
+            {
+                "id": 65727,
+                "company": {
+                    "id": 164,
+                    "name": "Rocksteady Studios"
+                }
+            },
+            {
+                "id": 65728,
+                "company": {
+                    "id": 14055,
+                    "name": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "id": 70442,
+                "company": {
+                    "id": 2121,
+                    "name": "Iron Galaxy Studios"
+                }
+            }
+        ],
+        "multiplayer_modes": [
+            7526
+        ],
+        "name": "Batman: Arkham Knight",
+        "platforms": [
+            6,
+            48,
+            49,
+            130
+        ],
+        "total_rating_count": 1272
+    },
+    {
+        "id": 11198,
+        "first_release_date": 1436140800,
+        "genres": [
+            10,
+            14,
+            32
+        ],
+        "involved_companies": [
+            {
+                "id": 57631,
+                "company": {
+                    "id": 2095,
+                    "name": "Panic Button Games"
+                }
+            },
+            {
+                "id": 96664,
+                "company": {
+                    "id": 711,
+                    "name": "Psyonix"
+                }
+            }
+        ],
+        "multiplayer_modes": [
+            25004
+        ],
+        "name": "Rocket League",
+        "platforms": [
+            3,
+            6,
+            14,
+            48,
+            49,
+            130
+        ],
+        "total_rating_count": 1026
+    },
+    {
+        "id": 7609,
+        "first_release_date": 1440460800,
+        "genres": [
+            31
+        ],
+        "involved_companies": [
+            {
+                "id": 25340,
+                "company": {
+                    "id": 4895,
+                    "name": "Supermassive Games"
+                }
+            },
+            {
+                "id": 180653,
+                "company": {
+                    "id": 13634,
+                    "name": "Sony Computer Entertainment"
+                }
+            }
+        ],
+        "name": "Until Dawn",
+        "platforms": [
+            48
+        ],
+        "total_rating_count": 639
+    },
+    {
+        "id": 12517,
+        "first_release_date": 1442275200,
+        "genres": [
+            9,
+            12,
+            16,
+            31,
+            32
+        ],
+        "involved_companies": [
+            {
+                "id": 134860,
+                "company": {
+                    "id": 29538,
+                    "name": "8-4"
+                }
+            },
+            {
+                "id": 171541,
+                "company": {
+                    "id": 23459,
+                    "name": "temmie"
+                }
+            },
+            {
+                "id": 171542,
+                "company": {
+                    "id": 6545,
+                    "name": "tobyfox"
+                }
+            }
+        ],
+        "name": "Undertale",
+        "platforms": [
+            3,
+            6,
+            14,
+            46,
+            48,
+            49,
+            130
+        ],
+        "total_rating_count": 1487
+    },
+    {
+        "id": 8263,
+        "first_release_date": 1445558400,
+        "genres": [
+            31
+        ],
+        "involved_companies": [
+            {
+                "id": 63917,
+                "company": {
+                    "id": 38,
+                    "name": "Ubisoft Montreal"
+                }
+            },
+            {
+                "id": 63918,
+                "company": {
+                    "id": 822,
+                    "name": "Ubisoft Singapore"
+                }
+            },
+            {
+                "id": 63919,
+                "company": {
+                    "id": 39,
+                    "name": "Ubisoft Annecy"
+                }
+            },
+            {
+                "id": 63920,
+                "company": {
+                    "id": 702,
+                    "name": "Ubisoft Montpellier"
+                }
+            },
+            {
+                "id": 63921,
+                "company": {
+                    "id": 433,
+                    "name": "Ubisoft Reflections"
+                }
+            },
+            {
+                "id": 63922,
+                "company": {
+                    "id": 3928,
+                    "name": "Ubisoft Chengdu"
+                }
+            },
+            {
+                "id": 63923,
+                "company": {
+                    "id": 398,
+                    "name": "Ubisoft Shanghai"
+                }
+            },
+            {
+                "id": 63924,
+                "company": {
+                    "id": 840,
+                    "name": "Ubisoft Sofia"
+                }
+            },
+            {
+                "id": 63925,
+                "company": {
+                    "id": 2921,
+                    "name": "Ubisoft Kyiv"
+                }
+            },
+            {
+                "id": 79874,
+                "company": {
+                    "id": 15790,
+                    "name": "Ubisoft Qu\u00e9bec"
+                }
+            },
+            {
+                "id": 198980,
+                "company": {
+                    "id": 104,
+                    "name": "Ubisoft Entertainment"
+                }
+            }
+        ],
+        "multiplayer_modes": [
+            7449
+        ],
+        "name": "Assassin's Creed Syndicate",
+        "platforms": [
+            6,
+            48,
+            49,
+            170
+        ],
+        "total_rating_count": 712
+    },
+    {
+        "id": 9630,
+        "first_release_date": 1447027200,
+        "genres": [
+            5,
+            12
+        ],
+        "involved_companies": [
+            {
+                "id": 248492,
+                "company": {
+                    "id": 126,
+                    "name": "Bethesda Game Studios"
+                }
+            },
+            {
+                "id": 248493,
+                "company": {
+                    "id": 16565,
+                    "name": "Bethesda Softworks"
+                }
+            }
+        ],
+        "multiplayer_modes": [
+            7451
+        ],
+        "name": "Fallout 4",
+        "platforms": [
+            6,
+            48,
+            49,
+            167,
+            169
+        ],
+        "total_rating_count": 1450
+    },
+    {
+        "id": 7360,
+        "first_release_date": 1448928000,
+        "genres": [
+            5,
+            24
+        ],
+        "involved_companies": [
+            {
+                "id": 214265,
+                "company": {
+                    "id": 38,
+                    "name": "Ubisoft Montreal"
+                }
+            },
+            {
+                "id": 219586,
+                "company": {
+                    "id": 104,
+                    "name": "Ubisoft Entertainment"
+                }
+            }
+        ],
+        "multiplayer_modes": [
+            9817
+        ],
+        "name": "Tom Clancy's Rainbow Six Siege",
+        "platforms": [
+            6,
+            48,
+            49,
+            167,
+            169,
+            170
+        ],
+        "total_rating_count": 463
+    }
+]

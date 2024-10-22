@@ -1,0 +1,119 @@
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+  button:hover {
+    border-color: #646cff;
+  }
+}
+
+.navbar-rounded {
+  border-radius: 8px;
+}
+
+.cyan-box-shadow {
+  box-shadow: 0 4px 8px rgba(0, 255, 255, 0.5);
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.logo-text-shadow {
+  box-shadow: 0 0 8px rgba(0, 255, 255, 0.5);
+}
+
+.navbar-item:hover {
+  transform: translateY(-2px);
+  transition: transform 0.1s;
+  text-decoration: underline;
+  text-decoration-color: white;
+  background-color: transparent;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0.3;
+    filter: blur(2px);
+  }
+  to {
+    opacity: 1;
+    filter: blur(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.modal-card-head {
+  box-shadow: none !important;
+  border-bottom: 1px solid cyan;
+}
+
+.modal-card {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  overflow: hidden;
+}
+
+.modal-card-head .modal-card-title {
+  font-size: 1.5rem; /* Adjust the font size as needed */
+  line-height: 2rem; /* Adjust the line height as needed */
+}
+
+.delete {
+  padding: 0; 
+}
+
+.QUESTLOGLOGOCYAN {
+  color: cyan;
+  fill: cyan;
+}
