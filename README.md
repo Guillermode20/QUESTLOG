@@ -5,8 +5,6 @@
 
 > A modern game review site, based on React and NodeJS.
 
-### 🏠 [Homepage](questlog.gg)
-
 ## Install
 
 ```sh
