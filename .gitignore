@@ -100,4 +100,4 @@ build/Release
 .svelte-kit
 
 # Ignore everything in the python-scripts folder
-!python-scripts/
+python-scripts/
