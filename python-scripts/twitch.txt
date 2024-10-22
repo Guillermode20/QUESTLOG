@@ -1,5 +1,0 @@
-7sm3u4g0ep9rl57ryjcih9dn922v7d clientid
-
-4hsbhbsua0yl1eh0df9yyc40sph0dn secret
-
-{"access_token":"gnyzlzay6zboxn07nu89nrldrkdbam","expires_in":5085683,"token_type":"bearer"}
